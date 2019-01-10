@@ -29,16 +29,16 @@
 		        </ul>
 		    </li>
 		    <li class="mm-dropdown" opCode="02">
-		        <a href="#"><i class="menu-icon fa fa-barcode"></i><span class="mm-text">保险管理</span></a>
+		        <a href="#"><i class="menu-icon fa fa-barcode"></i><span class="mm-text">充值中心</span></a>
 		        <ul>
 		            <li opCode="0201">
-		                <a tabindex="-1" href="javascript:goPage('bx/cp/mainPage')"><span class="mm-text">保险公司管理</span></a>
+		                <a tabindex="-1" href="javascript:goPage('bx/cp/mainPage')"><span class="mm-text">充值管理</span></a>
 		            </li>
 		            <li opCode="0202">
-		                <a tabindex="-1" href="javascript:goPage('bx/class/mainPage')"><span class="mm-text">保险分类管理</span></a>
+		                <a tabindex="-1" href="javascript:goPage('bx/class/mainPage')"><span class="mm-text">饭卡配置</span></a>
 		            </li>
 		            <li opCode="0203">
-		                <a tabindex="-1" href="javascript:goPage('bx/pd/mainPage')"><span class="mm-text">保险产品管理</span></a>
+		                <a tabindex="-1" href="javascript:goPage('bx/pd/mainPage')"><span class="mm-text">充值</span></a>
 		            </li>
 		        </ul>
 		    </li>
